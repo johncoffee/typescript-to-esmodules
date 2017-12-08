@@ -1,7 +1,6 @@
 {
   "name": "typescript-to-esmodules",
   "version": "1.0.0",
-  "description": "",
   "main": "dev-server.js",
   "dependencies": {
     "requirejs": "^2.3.5"
@@ -16,5 +15,14 @@
     "test": "mocha"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johncoffee/typescript-to-esmodules.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johncoffee/typescript-to-esmodules/issues"
+  },
+  "homepage": "https://github.com/johncoffee/typescript-to-esmodules#readme",
+  "description": ""
 }
